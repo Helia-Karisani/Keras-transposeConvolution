@@ -73,6 +73,5 @@ README.md                          # project documentation
 ##  Summary
 
 This project provides a clear demonstration of how transpose convolution works in practice and how it can be used to reconstruct or generate higher-dimensional outputs from compact inputs.
-```
 
 
